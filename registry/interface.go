@@ -17,7 +17,7 @@
 package registry
 
 import (
-	"github.com/edgexfoundry/go-mod-registry/v3/pkg/types"
+	"github.com/agile-edgex/go-mod-registry/v3/pkg/types"
 )
 
 type Client interface {
