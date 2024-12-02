@@ -1,4 +1,4 @@
-module github.com/agile-edgex/go-mod-registry/v3
+module github.com/agile-edge/go-mod-registry/v3
 
 go 1.21
 

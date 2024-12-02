@@ -19,8 +19,8 @@ package registry
 import (
 	"fmt"
 
-	"github.com/agile-edgex/go-mod-registry/v3/internal/pkg/consul"
-	"github.com/agile-edgex/go-mod-registry/v3/pkg/types"
+	"github.com/agile-edge/go-mod-registry/v3/internal/pkg/consul"
+	"github.com/agile-edge/go-mod-registry/v3/pkg/types"
 )
 
 func NewRegistryClient(registryConfig types.Config) (Client, error) {
