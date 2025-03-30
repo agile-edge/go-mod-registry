@@ -19,7 +19,7 @@ package types
 import (
 	"fmt"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/v4/clients/interfaces"
+	"github.com/agile-edge/go-mod-core-contracts/v4/clients/interfaces"
 )
 
 // Config defines the information need to connect to the registry service and optionally register the service

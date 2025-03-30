@@ -1,9 +1,9 @@
-module github.com/edgexfoundry/go-mod-registry/v4
+module github.com/agile-edge/go-mod-registry/v4
 
 go 1.23
 
 require (
-	github.com/edgexfoundry/go-mod-core-contracts/v4 v4.0.1
+	github.com/agile-edge/go-mod-core-contracts/v4 v4.0.1
 	github.com/stretchr/testify v1.10.0
 )
 

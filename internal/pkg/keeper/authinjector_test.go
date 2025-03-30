@@ -8,7 +8,7 @@ package keeper
 import (
 	"net/http"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/v4/clients/interfaces"
+	"github.com/agile-edge/go-mod-core-contracts/v4/clients/interfaces"
 )
 
 type emptyAuthenticationInjector struct {

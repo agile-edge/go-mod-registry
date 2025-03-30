@@ -20,8 +20,8 @@ package registry
 import (
 	"fmt"
 
-	"github.com/edgexfoundry/go-mod-registry/v4/internal/pkg/keeper"
-	"github.com/edgexfoundry/go-mod-registry/v4/pkg/types"
+	"github.com/agile-edge/go-mod-registry/v4/internal/pkg/keeper"
+	"github.com/agile-edge/go-mod-registry/v4/pkg/types"
 )
 
 func NewRegistryClient(registryConfig types.Config) (Client, error) {

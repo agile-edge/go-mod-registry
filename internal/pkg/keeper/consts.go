@@ -5,7 +5,7 @@
 
 package keeper
 
-import "github.com/edgexfoundry/go-mod-core-contracts/v4/common"
+import "github.com/agile-edge/go-mod-core-contracts/v4/common"
 
 const (
 	ApiRegistrationByServiceIdRoute = common.ApiRegisterRoute + "/" + common.ServiceId + "/"
